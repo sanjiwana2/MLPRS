@@ -1,0 +1,1 @@
+This repository contains the implementation of Multilayer Perceptron for Classification using Remote Sensing Data. There are 3 main parts, such as the MLP architecture inside the Model folder, training process at training.ipynb, and inference process at inference.ipynb.
